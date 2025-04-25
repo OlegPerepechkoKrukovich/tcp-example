@@ -1,0 +1,15 @@
+{
+  "user": {
+    "id": 101,
+    "name": "Иван Иванов",
+    "email": "ivan.ivanov@example.com",
+    "age": 29,
+    "isActive": true,
+    "roles": ["user", "admin"],
+    "address": {
+      "street": "ул. Ленина, д.10",
+      "city": "Москва",
+      "postalCode": "101000"
+    }
+  }
+}
